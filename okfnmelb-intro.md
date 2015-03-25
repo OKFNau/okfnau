@@ -1,11 +1,20 @@
 ## Open Knowledge Introduction
-Hi, and welcome to Open Knowledge Melbourne. 
+Hi, and welcome to Open Knowledge Melbourne.
 
-We run these events to continue our mission of building a community around openness: promoting the free sharing of information between government, universities, citizens, the media, and other organisations. 
+We run these events to continue our mission of building a community around openness: promoting the free sharing of information between government, universities, citizens, the media, and other organisations.
 
-The Open Knowledge ambassadors here tonight are: Fiona, digital humanities specialist and last year's Govhack Melbourne organiser; Steve, open data advocate and mapping enthusiast; Maia, community builder and open science etc...
+The Open Knowledge ambassadors here tonight are:
 
-We're lucky to be hosted by Thoughtworks, a software consultancy with a strong interest in community engagement and socially beneficial projects. Please help yourself to drinks and snacks in the kitchen, but respect the space: put dishes straight in the dishwasher and don't disrupt anyone still at work. The recycling and rubbish bins are _wherever they are_, there are fire exits _here and here_, toilets are back out through the main entrance.
+* Fiona: digital humanities specialist and last year's Govhack Melbourne organiser
+* Steve: open data advocate and mapping enthusiast
+* Maia: community builder and open science etc.
+* Matt: Linux systems adminstrator, scout leader, open everything and
+  mapping enthusiast
+* Lachlan: Linux systems administrator...
+* Ruth: Cosmologist and all-round source of enthusiasm
+
+
+We're lucky to be hosted by Thoughtworks, a software consultancy with a strong interest in community engagement and socially beneficial projects. Please help yourself to drinks and snacks in the kitchen, but respect the space: put dishes straight in the dishwasher and don't disrupt anyone still at work. The recycling and rubbish bins are located in the cupboard left of the sink in the kitchen, there are fire exits _here and here_, toilets are back out through the main entrance.
 
 We care about making everyone feel welcome, so please check out the code of conduct on the Meetup page. We have a mailing list (also linked), and we're active on Twitter at @okfnau. Please talk to _point out organisers_ if you have any issues.
 
