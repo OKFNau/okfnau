@@ -12,6 +12,7 @@ The Open Knowledge ambassadors here tonight are:
   mapping enthusiast
 * Lachlan: Linux systems administrator...
 * Ruth: Cosmologist and all-round source of enthusiasm
+* Jordan: Lawyer and GovHack Melbourne 2015 organiser
 
 
 We're lucky to be hosted by Thoughtworks, a software consultancy with a strong interest in community engagement and socially beneficial projects. Please help yourself to drinks and snacks in the kitchen, but respect the space: put dishes straight in the dishwasher and don't disrupt anyone still at work. The recycling and rubbish bins are located in the cupboard left of the sink in the kitchen, there are fire exits _here and here_, toilets are back out through the main entrance.
