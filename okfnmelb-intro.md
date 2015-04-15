@@ -22,7 +22,7 @@ The Open Knowledge ambassadors here tonight are:
 * Fire exits at either end of the building
 * Toilets opposite elevators
 * Respect the space: put dishes straight in the dishwasher and don't disrupt anyone still at work
-* Please read our code of conduct (http://au.okfn.org/code-of-conduct/) if you haven't already
+* Please read our code of conduct (http://au.okfn.org/code-of-conduct/) if you haven't already and follow it.
 * Any issues or concerns, see one of the OKAU ambassadors
 * Find us on meetup (http://www.meetup.com/Open-Knowledge-Melbourne), Twitter (http://twitter.com/okfnau), our blog (http://au.okfn.org), and our mailing list (https://lists.okfn.org/mailman/listinfo/okfn-au)
 
