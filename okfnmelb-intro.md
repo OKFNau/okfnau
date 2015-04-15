@@ -14,6 +14,8 @@ The Open Knowledge ambassadors here tonight are:
 * Ruth: Cosmologist and all-round source of enthusiasm
 * Jordan: Lawyer and GovHack Melbourne 2015 organiser
 
+**Quick data points**
+
 * Hosted by Thoughtworks, an open-community aware software consultancy.
 * Drinks and snacks in the kitchen
 * Bins at the opposite end of the kitchen
