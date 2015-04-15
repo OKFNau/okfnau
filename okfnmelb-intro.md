@@ -14,15 +14,18 @@ The Open Knowledge ambassadors here tonight are:
 * Ruth: Cosmologist and all-round source of enthusiasm
 * Jordan: Lawyer and GovHack Melbourne 2015 organiser
 
-
-We're lucky to be hosted by Thoughtworks, a software consultancy with a strong interest in community engagement and socially beneficial projects. Please help yourself to drinks and snacks in the kitchen, but respect the space: put dishes straight in the dishwasher and don't disrupt anyone still at work. The recycling and rubbish bins are located in the cupboard left of the sink in the kitchen, there are fire exits _here and here_, toilets are back out through the main entrance.
-
-We care about making everyone feel welcome, so please check out the code of conduct on the Meetup page. We have a mailing list (also linked), and we're active on Twitter at @okfnau. Please talk to _point out organisers_ if you have any issues.
-
-Is anyone here for the first time tonight? Would you like to introduce yourselves with your name, your special skill or superpower, and something you're looking for help with.
+* Hosted by Thoughtworks, an open-community aware software consultancy.
+* Drinks and snacks in the kitchen
+* Bins at the opposite end of the kitchen
+* Fire exits at either end of the building
+* Toilets opposite elevators
+* Respect the space: put dishes straight in the dishwasher and don't disrupt anyone still at work
+* Please read our code of conduct (http://au.okfn.org/code-of-conduct/) if you haven't already
+* Any issues or concerns, see one of the OKAU ambassadors
+* Find us on meetup (http://www.meetup.com/Open-Knowledge-Melbourne), Twitter (http://twitter.com/okfnau), our blog (http://au.okfn.org), and our mailing list (https://lists.okfn.org/mailman/listinfo/okfn-au)
 
 **Introductions**
 
-Great! Tonight goes like this: our speaker will talk for about 15 minutes, then there's plenty of time for questions. Healthy snacks are in the kitchen from around 7pm, so meet someone you don't know, share a skill or ask around for a project to get involved in. If you want to quietly hack away on a project, you can do that in here. We wind up at 9.
+First timers: Please tell us your name, your profession/passion, and something we can help you with.
 
-Our speaker tonight is _introduce_.
+Tonight's speaker is _speaker_, after which there will be time for questions, then snacks/hacking/chatting around 7PM. We wind up at 9.
